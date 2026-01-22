@@ -5,7 +5,7 @@ title = 'KWoC Report'
 <br>
 
 ### INTRODUCTION
-I am <a href="https://github.com/anusthetic">Anushka Raj</a>, a first-year undergraduate student with an interest in Web Development and AI/ML.
+I am <a href="https://github.com/anusthetic">Anushka Raj</a>, a first-year undergraduate student of the Department of Computer Science Engineering at IIT Kharagpur with an interest in Web Development and AI/ML.
 <br>
 I participated in KWoC'25 where contributors work on real-world open source projects. 
 This blog documents my contributions in projects and the learnings I gained during the contributions.
@@ -22,6 +22,7 @@ I created PR's <a href="https://github.com/metakgp/metakgp.org/pull/25">#25</a> 
 The issues addressed were:
 - Cleaning up unused assets
 - Compressing large images and changing them to .webp
+- Saving images locally that were being extracted externally
 - Adding a theme toggler with light theme support
 <br><br>
 
