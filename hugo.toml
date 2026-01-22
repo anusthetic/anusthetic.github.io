@@ -1,0 +1,6 @@
+baseURL = 'https://anusthetic.github.io/'
+languageCode = 'en-us'
+title = 'Anushka Raj'
+theme = 'PaperMod'
+[markup.goldmark.renderer]
+unsafe = true

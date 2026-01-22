@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anushka Raj</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Anushka Raj</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KWoC Report</title>
+      <link>http://localhost:1313/posts/kwoc-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kwoc-report/</guid>
+      <description>&lt;br&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;INTRODUCTION&lt;/h3&gt;
+&lt;p&gt;I am &lt;a href=&#34;https://github.com/anusthetic&#34;&gt;Anushka Raj&lt;/a&gt;, a first-year undergraduate student with an interest in Web Development and AI/ML.
+&lt;br&gt;
+I participated in KWoC&#39;25 where contributors work on real-world open source projects.
+This blog documents my contributions in projects and the learnings I gained during the contributions.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;projects-worked-on&#34;&gt;PROJECTS WORKED ON&lt;/h3&gt;
+&lt;p&gt;I worked on the &lt;a href=&#34;https://github.com/metakgp/metakgp.org&#34;&gt;MetaKGP&lt;/a&gt; project, which is a community for open-source enthusiasts at IIT Kharagpur.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;problem-statement--issues-worked-on&#34;&gt;PROBLEM STATEMENT / ISSUES WORKED ON&lt;/h3&gt;
+&lt;p&gt;I created PR&amp;rsquo;s &lt;a href=&#34;https://github.com/metakgp/metakgp.org/pull/25&#34;&gt;#25&lt;/a&gt; and &lt;a href=&#34;https://github.com/metakgp/metakgp.org/pull/37&#34;&gt;#37&lt;/a&gt; which closed issues &lt;a href=&#34;https://github.com/metakgp/metakgp.org/issues/14&#34;&gt;#14&lt;/a&gt; and &lt;a href=&#34;https://github.com/metakgp/metakgp.org/issues/18&#34;&gt;#18&lt;/a&gt;.
+&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
